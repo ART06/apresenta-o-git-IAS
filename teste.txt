@@ -1,1 +1,2 @@
 criação de um arquivo de texto para commit
+adição de outro texto no mesmo arquivo
